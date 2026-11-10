@@ -30,7 +30,9 @@ The public copy keeps the scripts, scenes and Unity references, but replaces the
 
 ## Gameplay
 
-<!-- gameplay video: Ghaleb adds it on GitHub -->
+
+https://github.com/user-attachments/assets/d6f9ee4c-5d69-4a02-bca5-10034e3b7d84
+
 
 ![A level: the chick on the slingshot, zombies on stacked crates, and the egg nest](docs/gameplay.webp)
 
